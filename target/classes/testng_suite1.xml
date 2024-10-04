@@ -1,0 +1,14 @@
+
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">   
+<suite name="TestNg Test Automation Suite">                     
+      <test name="Different TestNG feature test">
+      
+       <classes>
+          <class name="com.test.TestNgProject"/>
+          <class name="com.test.FeaturesOf_TestNG"/>
+       </classes>
+       
+      </test>
+      
+</suite>
